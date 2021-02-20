@@ -58,7 +58,7 @@ class Arithmetic:
 
 #16723450
 class Num:
-    a = Arithmetic(alphabet='01234567', plus_one='14526730')
+    a = Arithmetic(alphabet='01234567', plus_one='16723450')
     r = a.r
     n = a.n
     zero = a.zero
